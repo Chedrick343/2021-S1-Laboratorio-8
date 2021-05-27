@@ -29,4 +29,4 @@ def test_convertirDecimalHex_2():
     assert laboratorio8.convertirDecimalHex (31) == '1F'
     
 def test_convertirDecimalHex_3():
-    assert laboratorio8.convertirDecimalHex (16) == '1B58'    
+    assert laboratorio8.convertirDecimalHex (7000) == '1B58'    
