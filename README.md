@@ -2,7 +2,7 @@
 
 El laboratorio consiste en una serie de ejercicios para practicar la resolución de problemas usando el método visto en la clase de **Introducción a la Programación**, listas y matrices.
 
-El laboratorio es **individual**, deberán subir un archivo con el nombre **Laboratorio8.py**.  Se entrega el **viernes 28 de mayo hasta las 10 pm**. Para estas funciones haremos del uso del **While y For**
+El laboratorio es **individual**, deberán subir un archivo con el nombre **laboratorio8.py**.  Se entrega el **viernes 28 de mayo hasta las 10 pm**. Para estas funciones haremos del uso del **While y For**
 
 
 ## encontrarNumerosDivisibles(matriz, num)
