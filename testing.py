@@ -9,11 +9,11 @@ def test_encontrarNumerosDivisibles_1():
     assert laboratorio8.encontrarNumerosDivisibles(n, 2) == "Error: existen vectores de diferente tamaño"
 
 def test_encontrarNumerosDivisibles_2():
-    assert laboratorio8.encontrarNumerosDivisibles(m, 2) == [[0,0,0,],[2,0,6,8],[0,0,0,4],[0,8,0,10]]
+    assert laboratorio8.encontrarNumerosDivisibles(m, 2) == [[0,0,0,0],[2,0,6,8],[0,0,0,4],[0,8,0,10]]
     
 #Pruebas para convertirBinarioDecimal    
 def test_convertirBinarioDecimal_1():
-    assert laboratorio8.convertirBinarioDecimal(1100) == 10
+    assert laboratorio8.convertirBinarioDecimal(1100) == 12
     
 def test_convertirBinarioDecimal_2():
     assert laboratorio8.convertirBinarioDecimal(1108) ==  'Error: No corresponde a una representación binaria'
